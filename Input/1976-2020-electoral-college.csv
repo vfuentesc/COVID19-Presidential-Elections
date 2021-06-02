@@ -1,0 +1,613 @@
+column_label,state_name,electoral_votes
+1976,Alabama,9
+1976,Alaska,3
+1976,Arizona,6
+1976,Arkansas,6
+1976,California,45
+1976,Colorado,7
+1976,Connecticut,8
+1976,Delaware,3
+1976,District of Columbia,3
+1976,Florida,17
+1976,Georgia,12
+1976,Hawaii,4
+1976,Idaho,4
+1976,Illinois,26
+1976,Indiana,13
+1976,Iowa,8
+1976,Kansas,7
+1976,Kentucky,9
+1976,Louisiana,10
+1976,Maine,4
+1976,Maryland,10
+1976,Massachusetts,14
+1976,Michigan,21
+1976,Minnesota,10
+1976,Mississippi,7
+1976,Missouri,12
+1976,Montana,4
+1976,Nebraska,5
+1976,Nevada,3
+1976,New Hampshire,4
+1976,New Jersey,17
+1976,New Mexico,4
+1976,New York,41
+1976,North Carolina,13
+1976,North Dakota,3
+1976,Ohio,25
+1976,Oklahoma,8
+1976,Oregon,6
+1976,Pennsylvania,27
+1976,Rhode Island,4
+1976,South Carolina,8
+1976,South Dakota,4
+1976,Tennessee,10
+1976,Texas,26
+1976,Utah,4
+1976,Vermont,3
+1976,Virginia,12
+1976,Washington,9
+1976,West Virginia,6
+1976,Wisconsin,11
+1976,Wyoming,3
+1980,Alabama,9
+1980,Alaska,3
+1980,Arizona,6
+1980,Arkansas,6
+1980,California,45
+1980,Colorado,7
+1980,Connecticut,8
+1980,Delaware,3
+1980,District of Columbia,3
+1980,Florida,17
+1980,Georgia,12
+1980,Hawaii,4
+1980,Idaho,4
+1980,Illinois,26
+1980,Indiana,13
+1980,Iowa,8
+1980,Kansas,7
+1980,Kentucky,9
+1980,Louisiana,10
+1980,Maine,4
+1980,Maryland,10
+1980,Massachusetts,14
+1980,Michigan,21
+1980,Minnesota,10
+1980,Mississippi,7
+1980,Missouri,12
+1980,Montana,4
+1980,Nebraska,5
+1980,Nevada,3
+1980,New Hampshire,4
+1980,New Jersey,17
+1980,New Mexico,4
+1980,New York,41
+1980,North Carolina,13
+1980,North Dakota,3
+1980,Ohio,25
+1980,Oklahoma,8
+1980,Oregon,6
+1980,Pennsylvania,27
+1980,Rhode Island,4
+1980,South Carolina,8
+1980,South Dakota,4
+1980,Tennessee,10
+1980,Texas,26
+1980,Utah,4
+1980,Vermont,3
+1980,Virginia,12
+1980,Washington,9
+1980,West Virginia,6
+1980,Wisconsin,11
+1980,Wyoming,3
+1984,Alabama,9
+1984,Alaska,3
+1984,Arizona,7
+1984,Arkansas,6
+1984,California,47
+1984,Colorado,8
+1984,Connecticut,8
+1984,Delaware,3
+1984,District of Columbia,3
+1984,Florida,21
+1984,Georgia,12
+1984,Hawaii,4
+1984,Idaho,4
+1984,Illinois,24
+1984,Indiana,12
+1984,Iowa,8
+1984,Kansas,7
+1984,Kentucky,9
+1984,Louisiana,10
+1984,Maine,4
+1984,Maryland,10
+1984,Massachusetts,13
+1984,Michigan,20
+1984,Minnesota,10
+1984,Mississippi,7
+1984,Missouri,11
+1984,Montana,4
+1984,Nebraska,5
+1984,Nevada,4
+1984,New Hampshire,4
+1984,New Jersey,16
+1984,New Mexico,5
+1984,New York,36
+1984,North Carolina,13
+1984,North Dakota,3
+1984,Ohio,23
+1984,Oklahoma,8
+1984,Oregon,7
+1984,Pennsylvania,25
+1984,Rhode Island,4
+1984,South Carolina,8
+1984,South Dakota,3
+1984,Tennessee,11
+1984,Texas,29
+1984,Utah,5
+1984,Vermont,3
+1984,Virginia,12
+1984,Washington,10
+1984,West Virginia,6
+1984,Wisconsin,11
+1984,Wyoming,3
+1988,Alabama,9
+1988,Alaska,3
+1988,Arizona,7
+1988,Arkansas,6
+1988,California,47
+1988,Colorado,8
+1988,Connecticut,8
+1988,Delaware,3
+1988,District of Columbia,3
+1988,Florida,21
+1988,Georgia,12
+1988,Hawaii,4
+1988,Idaho,4
+1988,Illinois,24
+1988,Indiana,12
+1988,Iowa,8
+1988,Kansas,7
+1988,Kentucky,9
+1988,Louisiana,10
+1988,Maine,4
+1988,Maryland,10
+1988,Massachusetts,13
+1988,Michigan,20
+1988,Minnesota,10
+1988,Mississippi,7
+1988,Missouri,11
+1988,Montana,4
+1988,Nebraska,5
+1988,Nevada,4
+1988,New Hampshire,4
+1988,New Jersey,16
+1988,New Mexico,5
+1988,New York,36
+1988,North Carolina,13
+1988,North Dakota,3
+1988,Ohio,23
+1988,Oklahoma,8
+1988,Oregon,7
+1988,Pennsylvania,25
+1988,Rhode Island,4
+1988,South Carolina,8
+1988,South Dakota,3
+1988,Tennessee,11
+1988,Texas,29
+1988,Utah,5
+1988,Vermont,3
+1988,Virginia,12
+1988,Washington,10
+1988,West Virginia,6
+1988,Wisconsin,11
+1988,Wyoming,3
+1992,Alabama,9
+1992,Alaska,3
+1992,Arizona,8
+1992,Arkansas,6
+1992,California,54
+1992,Colorado,8
+1992,Connecticut,8
+1992,Delaware,3
+1992,District of Columbia,3
+1992,Florida,25
+1992,Georgia,13
+1992,Hawaii,4
+1992,Idaho,4
+1992,Illinois,22
+1992,Indiana,12
+1992,Iowa,7
+1992,Kansas,6
+1992,Kentucky,8
+1992,Louisiana,9
+1992,Maine,4
+1992,Maryland,10
+1992,Massachusetts,12
+1992,Michigan,18
+1992,Minnesota,10
+1992,Mississippi,7
+1992,Missouri,11
+1992,Montana,3
+1992,Nebraska,5
+1992,Nevada,4
+1992,New Hampshire,4
+1992,New Jersey,15
+1992,New Mexico,5
+1992,New York,33
+1992,North Carolina,14
+1992,North Dakota,3
+1992,Ohio,21
+1992,Oklahoma,8
+1992,Oregon,7
+1992,Pennsylvania,23
+1992,Rhode Island,4
+1992,South Carolina,8
+1992,South Dakota,3
+1992,Tennessee,11
+1992,Texas,32
+1992,Utah,5
+1992,Vermont,3
+1992,Virginia,13
+1992,Washington,11
+1992,West Virginia,5
+1992,Wisconsin,11
+1992,Wyoming,3
+1996,Alabama,9
+1996,Alaska,3
+1996,Arizona,8
+1996,Arkansas,6
+1996,California,54
+1996,Colorado,8
+1996,Connecticut,8
+1996,Delaware,3
+1996,District of Columbia,3
+1996,Florida,25
+1996,Georgia,13
+1996,Hawaii,4
+1996,Idaho,4
+1996,Illinois,22
+1996,Indiana,12
+1996,Iowa,7
+1996,Kansas,6
+1996,Kentucky,8
+1996,Louisiana,9
+1996,Maine,4
+1996,Maryland,10
+1996,Massachusetts,12
+1996,Michigan,18
+1996,Minnesota,10
+1996,Mississippi,7
+1996,Missouri,11
+1996,Montana,3
+1996,Nebraska,5
+1996,Nevada,4
+1996,New Hampshire,4
+1996,New Jersey,15
+1996,New Mexico,5
+1996,New York,33
+1996,North Carolina,14
+1996,North Dakota,3
+1996,Ohio,21
+1996,Oklahoma,8
+1996,Oregon,7
+1996,Pennsylvania,23
+1996,Rhode Island,4
+1996,South Carolina,8
+1996,South Dakota,3
+1996,Tennessee,11
+1996,Texas,32
+1996,Utah,5
+1996,Vermont,3
+1996,Virginia,13
+1996,Washington,11
+1996,West Virginia,5
+1996,Wisconsin,11
+1996,Wyoming,3
+2000,Alabama,9
+2000,Alaska,3
+2000,Arizona,8
+2000,Arkansas,6
+2000,California,54
+2000,Colorado,8
+2000,Connecticut,8
+2000,Delaware,3
+2000,District of Columbia,3
+2000,Florida,25
+2000,Georgia,13
+2000,Hawaii,4
+2000,Idaho,4
+2000,Illinois,22
+2000,Indiana,12
+2000,Iowa,7
+2000,Kansas,6
+2000,Kentucky,8
+2000,Louisiana,9
+2000,Maine,4
+2000,Maryland,10
+2000,Massachusetts,12
+2000,Michigan,18
+2000,Minnesota,10
+2000,Mississippi,7
+2000,Missouri,11
+2000,Montana,3
+2000,Nebraska,5
+2000,Nevada,4
+2000,New Hampshire,4
+2000,New Jersey,15
+2000,New Mexico,5
+2000,New York,33
+2000,North Carolina,14
+2000,North Dakota,3
+2000,Ohio,21
+2000,Oklahoma,8
+2000,Oregon,7
+2000,Pennsylvania,23
+2000,Rhode Island,4
+2000,South Carolina,8
+2000,South Dakota,3
+2000,Tennessee,11
+2000,Texas,32
+2000,Utah,5
+2000,Vermont,3
+2000,Virginia,13
+2000,Washington,11
+2000,West Virginia,5
+2000,Wisconsin,11
+2000,Wyoming,3
+2004,Alabama,9
+2004,Alaska,3
+2004,Arizona,10
+2004,Arkansas,6
+2004,California,55
+2004,Colorado,9
+2004,Connecticut,7
+2004,Delaware,3
+2004,District of Columbia,3
+2004,Florida,27
+2004,Georgia,15
+2004,Hawaii,4
+2004,Idaho,4
+2004,Illinois,21
+2004,Indiana,11
+2004,Iowa,7
+2004,Kansas,6
+2004,Kentucky,8
+2004,Louisiana,9
+2004,Maine,4
+2004,Maryland,10
+2004,Massachusetts,12
+2004,Michigan,17
+2004,Minnesota,10
+2004,Mississippi,6
+2004,Missouri,11
+2004,Montana,3
+2004,Nebraska,5
+2004,Nevada,5
+2004,New Hampshire,4
+2004,New Jersey,15
+2004,New Mexico,5
+2004,New York,31
+2004,North Carolina,15
+2004,North Dakota,3
+2004,Ohio,20
+2004,Oklahoma,7
+2004,Oregon,7
+2004,Pennsylvania,21
+2004,Rhode Island,4
+2004,South Carolina,8
+2004,South Dakota,3
+2004,Tennessee,11
+2004,Texas,34
+2004,Utah,5
+2004,Vermont,3
+2004,Virginia,13
+2004,Washington,11
+2004,West Virginia,5
+2004,Wisconsin,10
+2004,Wyoming,3
+2008,Alabama,9
+2008,Alaska,3
+2008,Arizona,10
+2008,Arkansas,6
+2008,California,55
+2008,Colorado,9
+2008,Connecticut,7
+2008,Delaware,3
+2008,District of Columbia,3
+2008,Florida,27
+2008,Georgia,15
+2008,Hawaii,4
+2008,Idaho,4
+2008,Illinois,21
+2008,Indiana,11
+2008,Iowa,7
+2008,Kansas,6
+2008,Kentucky,8
+2008,Louisiana,9
+2008,Maine,4
+2008,Maryland,10
+2008,Massachusetts,12
+2008,Michigan,17
+2008,Minnesota,10
+2008,Mississippi,6
+2008,Missouri,11
+2008,Montana,3
+2008,Nebraska,5
+2008,Nevada,5
+2008,New Hampshire,4
+2008,New Jersey,15
+2008,New Mexico,5
+2008,New York,31
+2008,North Carolina,15
+2008,North Dakota,3
+2008,Ohio,20
+2008,Oklahoma,7
+2008,Oregon,7
+2008,Pennsylvania,21
+2008,Rhode Island,4
+2008,South Carolina,8
+2008,South Dakota,3
+2008,Tennessee,11
+2008,Texas,34
+2008,Utah,5
+2008,Vermont,3
+2008,Virginia,13
+2008,Washington,11
+2008,West Virginia,5
+2008,Wisconsin,10
+2008,Wyoming,3
+2012,Alabama,9
+2012,Alaska,3
+2012,Arizona,11
+2012,Arkansas,6
+2012,California,55
+2012,Colorado,9
+2012,Connecticut,7
+2012,Delaware,3
+2012,District of Columbia,3
+2012,Florida,29
+2012,Georgia,16
+2012,Hawaii,4
+2012,Idaho,4
+2012,Illinois,20
+2012,Indiana,11
+2012,Iowa,6
+2012,Kansas,6
+2012,Kentucky,8
+2012,Louisiana,8
+2012,Maine,4
+2012,Maryland,10
+2012,Massachusetts,11
+2012,Michigan,16
+2012,Minnesota,10
+2012,Mississippi,6
+2012,Missouri,10
+2012,Montana,3
+2012,Nebraska,5
+2012,Nevada,6
+2012,New Hampshire,4
+2012,New Jersey,14
+2012,New Mexico,5
+2012,New York,29
+2012,North Carolina,15
+2012,North Dakota,3
+2012,Ohio,18
+2012,Oklahoma,7
+2012,Oregon,7
+2012,Pennsylvania,20
+2012,Rhode Island,4
+2012,South Carolina,9
+2012,South Dakota,3
+2012,Tennessee,11
+2012,Texas,38
+2012,Utah,6
+2012,Vermont,3
+2012,Virginia,13
+2012,Washington,12
+2012,West Virginia,5
+2012,Wisconsin,10
+2012,Wyoming,3
+2016,Alabama,9
+2016,Alaska,3
+2016,Arizona,11
+2016,Arkansas,6
+2016,California,55
+2016,Colorado,9
+2016,Connecticut,7
+2016,Delaware,3
+2016,District of Columbia,3
+2016,Florida,29
+2016,Georgia,16
+2016,Hawaii,4
+2016,Idaho,4
+2016,Illinois,20
+2016,Indiana,11
+2016,Iowa,6
+2016,Kansas,6
+2016,Kentucky,8
+2016,Louisiana,8
+2016,Maine,4
+2016,Maryland,10
+2016,Massachusetts,11
+2016,Michigan,16
+2016,Minnesota,10
+2016,Mississippi,6
+2016,Missouri,10
+2016,Montana,3
+2016,Nebraska,5
+2016,Nevada,6
+2016,New Hampshire,4
+2016,New Jersey,14
+2016,New Mexico,5
+2016,New York,29
+2016,North Carolina,15
+2016,North Dakota,3
+2016,Ohio,18
+2016,Oklahoma,7
+2016,Oregon,7
+2016,Pennsylvania,20
+2016,Rhode Island,4
+2016,South Carolina,9
+2016,South Dakota,3
+2016,Tennessee,11
+2016,Texas,38
+2016,Utah,6
+2016,Vermont,3
+2016,Virginia,13
+2016,Washington,12
+2016,West Virginia,5
+2016,Wisconsin,10
+2016,Wyoming,3
+2020,Alabama,9
+2020,Alaska,3
+2020,Arizona,11
+2020,Arkansas,6
+2020,California,55
+2020,Colorado,9
+2020,Connecticut,7
+2020,Delaware,3
+2020,District of Columbia,3
+2020,Florida,29
+2020,Georgia,16
+2020,Hawaii,4
+2020,Idaho,4
+2020,Illinois,20
+2020,Indiana,11
+2020,Iowa,6
+2020,Kansas,6
+2020,Kentucky,8
+2020,Louisiana,8
+2020,Maine,4
+2020,Maryland,10
+2020,Massachusetts,11
+2020,Michigan,16
+2020,Minnesota,10
+2020,Mississippi,6
+2020,Missouri,10
+2020,Montana,3
+2020,Nebraska,5
+2020,Nevada,6
+2020,New Hampshire,4
+2020,New Jersey,14
+2020,New Mexico,5
+2020,New York,29
+2020,North Carolina,15
+2020,North Dakota,3
+2020,Ohio,18
+2020,Oklahoma,7
+2020,Oregon,7
+2020,Pennsylvania,20
+2020,Rhode Island,4
+2020,South Carolina,9
+2020,South Dakota,3
+2020,Tennessee,11
+2020,Texas,38
+2020,Utah,6
+2020,Vermont,3
+2020,Virginia,13
+2020,Washington,12
+2020,West Virginia,5
+2020,Wisconsin,10
+2020,Wyoming,3

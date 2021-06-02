@@ -1,0 +1,55 @@
+
+<table style="text-align:center"><caption><strong>Linear Regresion results controllying by state</strong></caption>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="3">2020 Republican Margin Vote (pp.)</td></tr>
+<tr><td style="text-align:left"></td><td>Without Mobility</td><td>Full</td><td>Optimal</td></tr>
+<tr><td style="text-align:left"></td><td>(1)</td><td>(2)</td><td>(3)</td></tr>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Log(total votes)</td><td>-0.1841<sup>***</sup></td><td>-0.1792<sup>***</sup></td><td>-0.1788<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.0279)</td><td>(0.0275)</td><td>(0.0273)</td></tr>
+<tr><td style="text-align:left">Log(total population)</td><td>0.1553<sup>***</sup></td><td>0.1671<sup>***</sup></td><td>0.1660<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.0274)</td><td>(0.0271)</td><td>(0.0270)</td></tr>
+<tr><td style="text-align:left">Urban/Rural</td><td>0.0229<sup>**</sup></td><td>0.0001</td><td></td></tr>
+<tr><td style="text-align:left"></td><td>(0.0079)</td><td>(0.0082)</td><td></td></tr>
+<tr><td style="text-align:left">Female share</td><td>-0.9796<sup>***</sup></td><td>-0.9179<sup>***</sup></td><td>-0.9104<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.1408)</td><td>(0.1391)</td><td>(0.1388)</td></tr>
+<tr><td style="text-align:left">Age 18-24</td><td>-2.4799<sup>***</sup></td><td>-2.3303<sup>***</sup></td><td>-2.3554<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.1110)</td><td>(0.1106)</td><td>(0.1099)</td></tr>
+<tr><td style="text-align:left">Age 25-44</td><td>-2.1465<sup>***</sup></td><td>-2.1068<sup>***</sup></td><td>-2.1148<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.1726)</td><td>(0.1702)</td><td>(0.1702)</td></tr>
+<tr><td style="text-align:left">Age 45-64</td><td>-1.9921<sup>***</sup></td><td>-1.8770<sup>***</sup></td><td>-1.8968<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.1543)</td><td>(0.1527)</td><td>(0.1524)</td></tr>
+<tr><td style="text-align:left">Age 65+</td><td>-1.2450<sup>***</sup></td><td>-1.2844<sup>***</sup></td><td>-1.3040<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.1173)</td><td>(0.1159)</td><td>(0.1155)</td></tr>
+<tr><td style="text-align:left">Foreign born share</td><td>0.3685<sup>***</sup></td><td>0.3096<sup>***</sup></td><td>0.3020<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.0657)</td><td>(0.0651)</td><td>(0.0650)</td></tr>
+<tr><td style="text-align:left">College degree share</td><td>-1.2070<sup>***</sup></td><td>-1.1537<sup>***</sup></td><td>-1.1948<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.0536)</td><td>(0.0532)</td><td>(0.0503)</td></tr>
+<tr><td style="text-align:left">Non-Hispanic White</td><td>1.2353<sup>***</sup></td><td>1.2248<sup>***</sup></td><td>1.2260<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.0294)</td><td>(0.0291)</td><td>(0.0289)</td></tr>
+<tr><td style="text-align:left">Non-Hispanic Black</td><td>-0.2812<sup>***</sup></td><td>-0.3104<sup>***</sup></td><td>-0.3108<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.0337)</td><td>(0.0335)</td><td>(0.0332)</td></tr>
+<tr><td style="text-align:left">Log(household median income)</td><td>0.1110<sup>***</sup></td><td>0.1291<sup>***</sup></td><td>0.1506<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.0204)</td><td>(0.0202)</td><td>(0.0182)</td></tr>
+<tr><td style="text-align:left">Gini index</td><td>-0.1754<sup>*</sup></td><td>-0.1956<sup>*</sup></td><td></td></tr>
+<tr><td style="text-align:left"></td><td>(0.0803)</td><td>(0.0792)</td><td></td></tr>
+<tr><td style="text-align:left">delta unemployment rate</td><td>-2.2336<sup>***</sup></td><td>-1.7883<sup>***</sup></td><td>-1.8167<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.2111)</td><td>(0.2155)</td><td>(0.2129)</td></tr>
+<tr><td style="text-align:left">COVID cases x 10k</td><td>0.0001<sup>***</sup></td><td>0.0001<sup>***</sup></td><td>0.0001<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.00002)</td><td>(0.00002)</td><td>(0.00002)</td></tr>
+<tr><td style="text-align:left">COVID deaths x 100k</td><td>0.00001</td><td>0.00003</td><td></td></tr>
+<tr><td style="text-align:left"></td><td>(0.00005)</td><td>(0.00005)</td><td></td></tr>
+<tr><td style="text-align:left">delta Mobility in deaths' peak</td><td></td><td>0.0027<sup>***</sup></td><td>0.0026<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.0004)</td><td>(0.0003)</td></tr>
+<tr><td style="text-align:left">delta Mobility in cases' peak</td><td></td><td>-0.0003</td><td></td></tr>
+<tr><td style="text-align:left"></td><td></td><td>(0.0005)</td><td></td></tr>
+<tr><td style="text-align:left">Constant</td><td>0.9792<sup>***</sup></td><td>0.6224<sup>*</sup></td><td>0.3305</td></tr>
+<tr><td style="text-align:left"></td><td>(0.2912)</td><td>(0.2900)</td><td>(0.2641)</td></tr>
+<tr><td style="text-align:left">State fixed effects?</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+<tr><td style="text-align:left"><em>N</em></td><td>3,112</td><td>3,112</td><td>3,112</td></tr>
+<tr><td style="text-align:left">R<sup>2</sup></td><td>0.8731</td><td>0.8767</td><td>0.8764</td></tr>
+<tr><td style="text-align:left">Adjusted R<sup>2</sup></td><td>0.8703</td><td>0.8739</td><td>0.8738</td></tr>
+<tr><td style="text-align:left">Residual Std. Error</td><td>0.1156</td><td>0.1140</td><td>0.1140</td></tr>
+<tr><td style="text-align:left">F Statistic</td><td>317.3913<sup>***</sup></td><td>318.1342<sup>***</sup></td><td>337.6280<sup>***</sup></td></tr>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Notes:</em></td><td colspan="3" style="text-align:right"><sup>***</sup>Significant at the 0.1 percent level.</td></tr>
+<tr><td style="text-align:left"></td><td colspan="3" style="text-align:right"><sup>**</sup>Significant at the 1 percent level.</td></tr>
+<tr><td style="text-align:left"></td><td colspan="3" style="text-align:right"><sup>*</sup>Significant at the 5 percent level.</td></tr>
+</table>
